@@ -54,9 +54,11 @@ DEPENDENCIES
   contrast
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
+  jekyll-sass-converter
+  kramdown
 
 RUBY VERSION
-   ruby 2.0.0p648
+   ruby 2.4.0p0
 
 BUNDLED WITH
    1.13.3
