@@ -50,6 +50,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   contrast
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
